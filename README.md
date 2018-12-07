@@ -14,7 +14,7 @@ Big Data Analytics and Cyber Security Reports:
 
 	•	Simple to use
 	•	Input output in CSV format
-	•	 Metadata defined in simple JSON file
+	•	Metadata defined in simple JSON file
 	•	Extremely configurable with tons of configuration knobs
 
 
@@ -26,15 +26,9 @@ Project Cyberities Additional Has Manual Tools For Big Data Analytics And Forens
 ARCHITECTURE
 
 The System Is Composed Of Four Main Components:
-29
 
-30
   1 Machine Learning Dataset Generator
-31
   2 Global And Self-Generating Local Representative Workloads
-32
   3 Machine Learning Metrics Of Interest And Visualization
-33
   4 Backend (Local And Cloud Deployable) Big Data Analysis And Visualization Platform
-34
 
