@@ -6,7 +6,9 @@ Next-generation Cyber Security System using Machine Learning, Automation, and Bi
 
 Project Cyberitis Big Data components consists of Hadoop, Spark and Storm based tools for outlier and anomaly detection, which are interweaved into the system's machine learning and automation engine for real-time fraud detection to forensics, intrusion detection to forensics.
 
-The Cyber Security System incorporates Lumify, an open source big data analysis and visualization platform to provide big data analysis and visualization of each instances of fraud or intrusion events into temporary, compartmentalized virtual machines that creates a full snapshot of the network infrastructure and infected device to allow an in-depth analytics, forensic review, and provide a transportable threat analysis for Executive level next-steps. 
+Cyberitis uses the Ophidia Analytics Framework for independent Big Data Multi-Inspection / Forensics of high-level threats or volume datasets exceeding local resources.  Ophidia Analytics Framework is an open source big data analytics framework, that includes parallel operators for data analysis and mining (subsetting, reduction, metadata processing, etc.) that can run over a cluster. The framework is fully integrated with Ophidia Server: it receives commands from the server and sends back notifications so that workflows can be executed efficiently.
+
+The Cyber Security System additionally incorporates Lumify, an open source big data analysis and visualization platform to provide big data analysis and visualization of each instances of fraud or intrusion events into temporary, compartmentalized virtual machines that creates a full snapshot of the network infrastructure and infected device to allow an in-depth analytics, forensic review, and provide a transportable threat analysis for Executive level next-steps. 
 
 Cyberitis uses local and cloud resources to launch Lumify for big data analysis and visulalization (customizable per environment and user). Open Source Lumify Dev Virtual Machine includes only the backend servers (Hadoop, Accumulo, Elasticsearch, RabbitMQ, Zookeeper) used for development. This VM makes it easy for developers to get started without needing to install the full stack on thier develoment machines. 
 
@@ -25,10 +27,12 @@ Project Cyberities Additional Has Manual Tools For Big Data Analytics And Forens
 
 ARCHITECTURE
 
-The System Is Composed Of Four Main Components:
+The System Is Composed Of Five Main Components:
 
   1 Machine Learning Dataset Generator
   2 Global And Self-Generating Local Representative Workloads
-  3 Machine Learning Metrics Of Interest And Visualization
-  4 Backend (Local And Cloud Deployable) Big Data Analysis And Visualization Platform
+  3 Independent Big Data Analytics Framework for Data Analysis And Mining
+  4 Machine Learning Metrics Of Interest And Visualization
+  5 Backend (Local And Cloud Deployable) Big Data Analysis And Visualization Platform
+
 
