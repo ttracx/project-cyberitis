@@ -32,13 +32,13 @@ Cyberitis uses local and cloud resources to launch Lumify for big data analysis 
 
 The Cyberitis System is Composed of Five Main Components:
 
-  1 Machine Learning Dataset Generator
-  2 Global and Self-Generating Local Representative Workloads
-  3 Independent Big Data Analytics Framework for Data Analysis and Mining
-  4 Machine Learning Metrics Of Interest And Visualization
-  5 Backend (Local and Cloud Deployable) Big Data Analysis and Visualization Platform
+ * Machine Learning Dataset Generator
+ * Global and Self-Generating Local Representative Workloads
+ * Independent Big Data Analytics Framework for Data Analysis and Mining
+ * Machine Learning Metrics Of Interest And Visualization
+ * Backend (Local and Cloud Deployable) Big Data Analysis and Visualization Platform
   
-### Component 1 Algorithms
+### Component 1 & 2 Algorithms
 
 * Multi variate instance distribution model
 * Multi variate sequence or multi gram distribution model
@@ -50,7 +50,7 @@ The Cyberitis System is Composed of Five Main Components:
 * Getting started
 
 
-### Component 1 Build
+### Component 1 & 2 Build
 
 For Hadoop 1
 * mvn clean install
