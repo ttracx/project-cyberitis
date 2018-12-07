@@ -28,7 +28,7 @@ Cyberitis uses local and cloud resources to launch Lumify for big data analysis 
 	•	Intrusion detection representative workloads
 	•	A user-friendly interface to monitor the cluster performance, showing application and 	system metrics
 
-# SYSTEM ARCHITECTURE
+# MAIN SYSTEM ARCHITECTURE
 
 The Cyberitis System is Composed of Five Main Components:
 
@@ -37,5 +37,33 @@ The Cyberitis System is Composed of Five Main Components:
   3 Independent Big Data Analytics Framework for Data Analysis and Mining
   4 Machine Learning Metrics Of Interest And Visualization
   5 Backend (Local and Cloud Deployable) Big Data Analysis and Visualization Platform
+  
+## Component 3 Algorithms
+
+* Multi variate instance distribution model
+* Multi variate sequence or multi gram distribution model
+* Average instance Distance
+* Relative instance Density
+* Markov chain with sequence data
+* Instance clustering
+* Sequence clustering
+* Getting started
 
 
+## Component 3 Build
+
+For Hadoop 1
+* mvn clean install
+
+For Hadoop 2 (non yarn)
+* git checkout nuovo
+* mvn clean install
+
+For Hadoop 2 (yarn)
+* git checkout nuovo
+* mvn clean install -P yarn
+
+For Spark
+* mvn clean install
+* sbt publishLocal
+* in ./spark  sbt clean package
