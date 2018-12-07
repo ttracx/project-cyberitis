@@ -14,7 +14,7 @@ The Cyber Security System additionally incorporates Lumify, an open source big d
 
 Cyberitis uses local and cloud resources to launch Lumify for big data analysis and visulalization (customizable per environment and user). Open Source Lumify Dev Virtual Machine includes only the backend servers (Hadoop, Accumulo, Elasticsearch, RabbitMQ, Zookeeper) used for development. This VM makes it easy for developers to get started without needing to install the full stack on thier develoment machines. 
 
-# Big Data Analytics and Cyber Security Reports:
+## Big Data Analytics and Cyber Security Reports:
 
 	•	Simple to use
 	•	Input output in CSV format
@@ -22,13 +22,13 @@ Cyberitis uses local and cloud resources to launch Lumify for big data analysis 
 	•	Extremely configurable with tons of configuration knobs
 
 
-# Project Cyberities Additional Has Manual Tools For Big Data Analytics And Forensics:
+## Project Cyberities Additional Has Manual Tools For Big Data Analytics And Forensics:
 
 	•	Fast and flexible synthetic machine learning data generator with high degree veracity
 	•	Intrusion detection representative workloads
 	•	A user-friendly interface to monitor the cluster performance, showing application and 	system metrics
 
-# MAIN SYSTEM ARCHITECTURE
+## MAIN SYSTEM ARCHITECTURE
 
 The Cyberitis System is Composed of Five Main Components:
 
