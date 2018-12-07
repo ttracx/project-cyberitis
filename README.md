@@ -1,5 +1,7 @@
-# project-cyberitis
-Cyber Security for Big Data and IoT using Machine Learning
+# Project Cyberitis
+
+# Cyber Security for Big Data and IoT using Machine Learning
+
 Project Cyberitis - Automated Cyber Security System designed for Big Data Environments, Offline IoT Devices, and Complex Data Analytics 
 
 Next-generation Cyber Security System using Machine Learning, Automation, and Big Data Analytic stacks. 
@@ -12,7 +14,7 @@ The Cyber Security System additionally incorporates Lumify, an open source big d
 
 Cyberitis uses local and cloud resources to launch Lumify for big data analysis and visulalization (customizable per environment and user). Open Source Lumify Dev Virtual Machine includes only the backend servers (Hadoop, Accumulo, Elasticsearch, RabbitMQ, Zookeeper) used for development. This VM makes it easy for developers to get started without needing to install the full stack on thier develoment machines. 
 
-Big Data Analytics and Cyber Security Reports:
+# Big Data Analytics and Cyber Security Reports:
 
 	•	Simple to use
 	•	Input output in CSV format
@@ -20,19 +22,20 @@ Big Data Analytics and Cyber Security Reports:
 	•	Extremely configurable with tons of configuration knobs
 
 
-Project Cyberities Additional Has Manual Tools For Big Data Analytics And Forensics:
+# Project Cyberities Additional Has Manual Tools For Big Data Analytics And Forensics:
+
 	•	Fast and flexible synthetic machine learning data generator with high degree veracity
 	•	Intrusion detection representative workloads
 	•	A user-friendly interface to monitor the cluster performance, showing application and 	system metrics
 
-ARCHITECTURE
+# SYSTEM ARCHITECTURE
 
-The System Is Composed Of Five Main Components:
+The Cyberitis System is Composed of Five Main Components:
 
   1 Machine Learning Dataset Generator
-  2 Global And Self-Generating Local Representative Workloads
-  3 Independent Big Data Analytics Framework for Data Analysis And Mining
+  2 Global and Self-Generating Local Representative Workloads
+  3 Independent Big Data Analytics Framework for Data Analysis and Mining
   4 Machine Learning Metrics Of Interest And Visualization
-  5 Backend (Local And Cloud Deployable) Big Data Analysis And Visualization Platform
+  5 Backend (Local and Cloud Deployable) Big Data Analysis and Visualization Platform
 
 
